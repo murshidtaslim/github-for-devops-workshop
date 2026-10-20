@@ -1,0 +1,5 @@
+def function():
+a=4
+b=6
+c=6
+return d
